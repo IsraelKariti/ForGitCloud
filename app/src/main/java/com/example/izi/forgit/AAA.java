@@ -1,5 +1,5 @@
 package com.example.izi.forgit;
 
 public class AAA {
-    int stage = 3;
+    int stage = 4;
 }
