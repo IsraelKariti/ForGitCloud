@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int MASTER_server = 102;
         int onCloud = 88;
+        int onLocal = 77;
     }
 }
