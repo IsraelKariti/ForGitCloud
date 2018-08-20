@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         int change_local_version_of_branch_cloud = 0;
         int change_local = 3;
         int change_merge = 3;
+        int change_branch = 1;
     }
 }
