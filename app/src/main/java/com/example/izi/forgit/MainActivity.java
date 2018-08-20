@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         int onCloud = 88;
         int onLocal = 77;
         int change_local_version_of_branch_cloud = 0;
+        int change_local = 1;
     }
 }
