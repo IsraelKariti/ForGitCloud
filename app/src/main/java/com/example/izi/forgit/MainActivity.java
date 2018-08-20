@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
         int coconut = 4;
         int base = 1;
         int major = 2;
+        int minor = 3;
     }
 }
