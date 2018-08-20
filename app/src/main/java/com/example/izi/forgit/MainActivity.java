@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
         int monkey = 4;
         int coconut = 4;
         int base = 1;
-        int minor = 2;
+        int minor = 3;
     }
 }
