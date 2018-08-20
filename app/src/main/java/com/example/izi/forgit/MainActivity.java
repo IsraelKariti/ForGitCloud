@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         int change_branch = 1;
         int monkey = 4;
         int coconut = 4;
+        int base = 1;
     }
 }
