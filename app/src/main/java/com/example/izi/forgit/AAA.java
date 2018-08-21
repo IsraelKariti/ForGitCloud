@@ -1,5 +1,5 @@
 package com.example.izi.forgit;
 
 public class AAA {
-    int aaa = 1;
+    int aaa111 = 1;
 }
